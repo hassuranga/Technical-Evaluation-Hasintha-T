@@ -1,0 +1,12 @@
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\bin\Debug\net8.0\LeaveTracker.DAL.deps.json
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\bin\Debug\net8.0\LeaveTracker.DAL.dll
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\bin\Debug\net8.0\LeaveTracker.DAL.pdb
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\LeaveTracker.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\LeaveTracker.DAL.AssemblyInfoInputs.cache
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\LeaveTracker.DAL.AssemblyInfo.cs
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\LeaveTracker.DAL.csproj.CoreCompileInputs.cache
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\LeaveTracker.DAL.dll
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\refint\LeaveTracker.DAL.dll
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\LeaveTracker.DAL.pdb
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\ref\LeaveTracker.DAL.dll
+D:\Technical-Evaluation-Hasintha\LeaveTracker.DAL\obj\Debug\net8.0\LeaveTracker.DAL.csproj.AssemblyReference.cache

@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54306103-7A52-4332-AF19-39FDD61E161F}|..\\LeaveTracker.BLL\\LeaveTracker.BLL.csproj|d:\\technical-evaluation-hasintha\\leavetracker.bll\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A46E12-5CEB-44C4-A59B-CE2A35EF9FA7}|..\\LeaveTracker.DAL\\LeaveTracker.DAL.csproj|d:\\technical-evaluation-hasintha\\leavetracker.dal\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54306103-7A52-4332-AF19-39FDD61E161F}|..\\LeaveTracker.BLL\\LeaveTracker.BLL.csproj|d:\\technical-evaluation-hasintha\\leavetracker.bll\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A46E12-5CEB-44C4-A59B-CE2A35EF9FA7}|..\\LeaveTracker.DAL\\LeaveTracker.DAL.csproj|d:\\technical-evaluation-hasintha\\leavetracker.dal\\leavedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605714B5-7C04-4F28-9B2A-45DFDF8B4935}|LeaveTracker.csproj|d:\\technical-evaluation-hasintha\\leavetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605714B5-7C04-4F28-9B2A-45DFDF8B4935}|LeaveTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605714B5-7C04-4F28-9B2A-45DFDF8B4935}|LeaveTracker.csproj|d:\\technical-evaluation-hasintha\\leavetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{605714B5-7C04-4F28-9B2A-45DFDF8B4935}|LeaveTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A46E12-5CEB-44C4-A59B-CE2A35EF9FA7}|..\\LeaveTracker.DAL\\LeaveTracker.DAL.csproj|d:\\technical-evaluation-hasintha\\leavetracker.dal\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.DAL\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "..\\LeaveTracker.DAL\\LeaveRequest.cs",
+              "ToolTip": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.DAL\\LeaveRequest.cs",
+              "RelativeToolTip": "..\\LeaveTracker.DAL\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:18:37.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.DAL\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\LeaveTracker.DAL\\Employee.cs",
+              "ToolTip": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.DAL\\Employee.cs",
+              "RelativeToolTip": "..\\LeaveTracker.DAL\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:18:35.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.BLL\\LeaveService.cs",
+              "RelativeDocumentMoniker": "..\\LeaveTracker.BLL\\LeaveService.cs",
+              "ToolTip": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.BLL\\LeaveService.cs",
+              "RelativeToolTip": "..\\LeaveTracker.BLL\\LeaveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:17:19.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.BLL\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\LeaveTracker.BLL\\EmployeeService.cs",
+              "ToolTip": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.BLL\\EmployeeService.cs",
+              "RelativeToolTip": "..\\LeaveTracker.BLL\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:15:59.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveDAL.cs",
+              "DocumentMoniker": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.DAL\\LeaveDAL.cs",
+              "RelativeDocumentMoniker": "..\\LeaveTracker.DAL\\LeaveDAL.cs",
+              "ToolTip": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker.DAL\\LeaveDAL.cs",
+              "RelativeToolTip": "..\\LeaveTracker.DAL\\LeaveDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:00:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:40:01.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Technical-Evaluation-Hasintha\\LeaveTracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T08:39:25.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
